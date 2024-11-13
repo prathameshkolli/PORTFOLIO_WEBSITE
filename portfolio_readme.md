@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! 🚀 This site showcases my journey as
 
 - **Home Page** 🏠: An introduction to who I am and what drives me.
 - **Projects** 💡: A showcase of key projects, including detailed descriptions and links to repositories.
-- **Skills** 🔧: A glimpse into my technical expertise, languages, and tools.
+- **Skills/ services / portfolio** 🔧: A glimpse into my technical expertise, languages, and tools.
 - **Contact** 📬: Reach out directly through a message form or download my CV with a single click.
 
 ## 🛠️ **Tech Stack** ⚙️
@@ -46,7 +46,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Let’s connect! If you have questions, want to collaborate, or need more information, don’t hesitate to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com) 📧
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile) 👔
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username) 💻
+- **Email**: prathameshkolli86@gmail.com 📧
+
 
